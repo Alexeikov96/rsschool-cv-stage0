@@ -33,9 +33,9 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 Lorem
 *****
 ## Education
-* 2014-2019.  Belarusian National Technical University, Information Technologies and Robotics Faculty, Automation of Technological Processes and Production specialty)
-* 2022-now. RS Schools Course «JavaScript/Front-end. Stage 0»
+* 2014 - 2019.  Belarusian National Technical University, Information Technologies and Robotics Faculty, Automation of Technological Processes and Production specialty)
+* 2022 - now. RS Schools Course «JavaScript/Front-end. Stage 0»
 *****
 ## Languages
-* English – pre intermediate (A2
+* English – Pre intermediate (A2)
 *****
