@@ -19,3 +19,9 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 *Git, GitHub
 *Figma (for web development)
 *****
+## Code example
+‘console.log('Hello, World!');’
+*****
+## Experience
+Lorem
+*****
